@@ -1,0 +1,1 @@
+ALTER TABLE "notesMain" ADD COLUMN "header" text;
